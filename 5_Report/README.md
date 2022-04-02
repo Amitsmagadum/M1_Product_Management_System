@@ -19,7 +19,7 @@ Product Management Systems is a way that helps us to maintain a database of the 
 The Product management system essential for malls, medical stores, Super markets, private companies and other organizations. 
 
 
-**How**
+**How**:
 This project is implemented to do the Adding, search, read, edit and deleting of the product by using Functions, structures,Array,  pointers and other functionalities of C.
 
 This project is implemented to do the Adding, search, read, edit and deleteing of the product by using structures, files, pointers and other functionalities of C.

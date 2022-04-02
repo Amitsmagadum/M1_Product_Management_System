@@ -9,7 +9,7 @@ Product Management is a simple application system designed to maintain or determ
 -	The system is fast, user friendly and interactive Cost effective.
 
 
-# 4W'S and 1H
+# 3W'S and 1H
 
 **When**:
 This Product Management System is very useful when there is large no of Products to be listing, Edit, read, search and deleted the item in data management system. It is very helpfully entering the records manually so here this project come in user friendly and cost effective.

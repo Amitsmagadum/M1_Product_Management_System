@@ -11,12 +11,14 @@ Product Management is a simple application system designed to maintain or determ
 
 # 4W'S and 1H
 
-**When**
+**When**:
 This Product Management System is very useful when there is large no of Products to be listing, Edit, read, search and deleted the item in data management system. It is very helpfully entering the records manually so here this project come in user friendly and cost effective.
-**What**
+**What**:
 Product Management Systems is a way that helps us to maintain a database of the products like Cars, Mobile Phones, gadgets etc.
-**Where**
+**Where**:
 The Product management system essential for malls, medical stores, Super markets, private companies and other organizations. 
+
+
 **How**
 This project is implemented to do the Adding, search, read, edit and deleting of the product by using Functions, structures,Array,  pointers and other functionalities of C.
 
